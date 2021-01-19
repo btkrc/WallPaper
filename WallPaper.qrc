@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="WallPaper">
+    <file>Resources/favicon.ico</file>
+    <file>Resources/wz.png</file>
+    <file>Resources/70BasicIcons-all-06.png</file>
+    <file>Resources/70BasicIcons-all-33.png</file>
+    <file>Resources/zuixiaohua_1.png</file>
+  </qresource>
+</RCC>
